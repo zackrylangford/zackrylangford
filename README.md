@@ -1,11 +1,11 @@
 # About Me 
-- 👋 Hi, I’m @zackrylangford
+👋 Hi, I’m @zackrylangford
 
 I am a coding enthusiast with a passion for building helpful programs. 
 
-- 👀 I’m interested in open source collaboration. 
-- 🌱 I’m currently learning Linux, Python, Cloud, and anything else that helps me grow :) 
-- 📫 How to reach me: zack@cloudzack.com
+👀 I’m interested in open source collaboration. 
+🌱 I’m currently learning Linux, Python, Cloud, and anything else that helps me grow :) 
+📫 How to reach me: zack@cloudzack.com
 
 
 # Current Projects
