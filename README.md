@@ -11,19 +11,15 @@ My current projects are [CloudZack](https://cloudzack.com) and [StitchJournal](h
 
 ## [CloudZack](https://cloudzack.com)
 I started CloudZack in 2022 with the goal of helping people use the power of the cloud to improve their lives and businesses. 
-<a href="https://cloudzack.com">
-<p align="center">
-    <img src="https://github-images-static.s3.amazonaws.com/images/CloudZack-Logo.svg"/>
-</p>
-</a>
+
+
+[![CloudZack Logo](https://github-images-static.s3.amazonaws.com/images/CloudZack-Logo.svg)](https://cloudzack.com)
 
 ## [StitchJournal](https://stitchjournal.com)
 StitchJournal is a web application built on Django and hosted on AWS Elastic Beanstalk. It is a simple application designed to help crochet pattern designers organize and publish their crochet patterns. I am building this in collaboration with [Yarn and Chai](https://yarnandchai.com) 
-<a href="https://stitchjournal.com>
-<p align="center">
-    <img src="https://github-images-static.s3.amazonaws.com/images/stitchjournal-logo.svg"/>
-    </p>
-</a>
+
+
+[![CloudZack Logo](https://github-images-static.s3.amazonaws.com/images/stitchjournal-logo.svg)](https://stitchjournal.com)
 
 # Contact
 📫 How to reach me: zack@cloudzack.com 
