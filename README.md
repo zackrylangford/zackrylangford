@@ -1,9 +1,11 @@
 # About Me 
 
 - 👋 Hi, I’m @zackrylangford
+- 👨‍👩‍👦‍👦 I'm married to Rebecca and we have 3 kids. 
+- 💪 I have been a stay at home dad for the last 3 years.
+- 🥋 I train Brazillian Jiu Jitsu to stay in shape
 - 👀 I’m interested in open source collaboration. 
 - 🌱 I’m currently learning Linux, Python, Cloud, and anything else that helps me grow :) 
-
 
 
 # Current Projects
