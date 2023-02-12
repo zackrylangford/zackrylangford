@@ -28,7 +28,9 @@ StitchJournal is a web application built on Django and hosted on AWS Elastic Bea
 [![StitchJournal Logo](https://github-images-static.s3.amazonaws.com/images/stitchjournal-logo.svg)](https://stitchjournal.com)
 
 </div>
-# Contact
+
+# Contact 
+ 
  How to reach me: 
 
 * 📫 [Email](mailto:zack@cloudzack.com)
