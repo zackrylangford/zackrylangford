@@ -24,8 +24,10 @@ StitchJournal is a web application built on Django and hosted on AWS Elastic Bea
 [![CloudZack Logo](https://github-images-static.s3.amazonaws.com/images/stitchjournal-logo.svg)](https://stitchjournal.com)
 
 # Contact
-📫 How to reach me: zack@cloudzack.com 
-🐥 Twitter: @zackrylangford
+ How to reach me: 
+
+* 📫 [Email](mailto:zack@cloudzack.com)
+* 🐥 [Twitter]:(https://twitter.com/zackrylangford)
 
 <!---
 zackrylangford/zackrylangford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
