@@ -5,11 +5,11 @@
 - 💪 I have been a stay at home dad for the last 3 years.
 - 🥋 I train Brazillian Jiu Jitsu to stay in shape
 - 👀 I’m interested in open source collaboration. 
-- 🌱 I’m currently learning Linux, Python, Cloud, and anything else that helps me grow :) 
+- 🌱 I’m currently learning Python, Cloud, AI, and anything else that helps me grow :) 
 
 
 # Current Projects
-My current projects are [CloudZack](https://cloudzack.com) and [StitchJournal](https://stitchjournal.com). 
+[CloudZack](https://cloudzack.com) and [StitchJournal](https://stitchjournal.com) are my two main projects currently. I also recently started playing around with OpenAI and am playing around with the capabilities with my project [August](https://github.com/zackrylangford/openai-chatgpt)
 
 ## [CloudZack](https://cloudzack.com)
 I started CloudZack in 2022 with the goal of helping people use the power of the cloud to improve their lives and businesses.
@@ -26,6 +26,16 @@ StitchJournal is a web application built on Django and hosted on AWS Elastic Bea
 <div align="center">
 
 [![StitchJournal Logo](https://github-images-static.s3.amazonaws.com/images/stitchjournal-logo.svg)](https://stitchjournal.com)
+
+</div>
+
+## [August](https://github.com/zackrylangford/openai-chatgpt)
+
+My attempt at creating a cool ChatGPT application. I named the AI "August" so it felt a little more personal.
+
+<div align="center">
+
+[![August Logo](https://github-images-static.s3.amazonaws.com/images/august.svg)](https://github.com/zackrylangford/openai-chatgpt)
 
 </div>
 
