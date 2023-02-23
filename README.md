@@ -31,7 +31,7 @@ StitchJournal is a web application built on Django and hosted on AWS Elastic Bea
 
 ## [August](https://github.com/zackrylangford/openai-chatgpt)
 
-My attempt at creating a cool ChatGPT application. I named the AI "August" so it felt a little more personal.
+August is a project driven by openai. We’re just getting started and are working hard to bring a fully functional application to the market. 
 
 <div align="center">
 
