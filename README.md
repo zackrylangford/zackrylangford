@@ -21,7 +21,7 @@ I started CloudZack in 2022 with the goal of helping people use the power of the
 </div>
 
 ## [StitchJournal](https://stitchjournal.com)
-StitchJournal is a web application built on Django and hosted on AWS Elastic Beanstalk. It is a simple application designed to help crochet pattern designers organize and publish their crochet patterns. I am building this in collaboration with [Yarn and Chai](https://yarnandchai.com) 
+StitchJournal is a web application built on Django and hosted on AWS Elastic Beanstalk utilizing Django. It is a simple application designed to help crochet pattern designers organize and publish their crochet patterns. I am building this in collaboration with [Yarn and Chai](https://yarnandchai.com) 
 
 <div align="center">
 
@@ -31,7 +31,7 @@ StitchJournal is a web application built on Django and hosted on AWS Elastic Bea
 
 ## [August](https://github.com/zackrylangford/openai-chatgpt)
 
-August is a project driven by openai. We’re just getting started and are working hard to bring a fully functional application to the market. 
+August is a project driven by openai. We’re just getting started and are working hard to bring a fully functional application to the market. We have started building a chat application that you can check out by following the link below:
 
 <div align="center">
 
