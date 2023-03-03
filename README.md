@@ -12,7 +12,7 @@
 [CloudZack](https://cloudzack.com) and [StitchJournal](https://stitchjournal.com) are my two main projects currently. I also recently started playing around with OpenAI and am playing around with the capabilities with my project [August](https://github.com/zackrylangford/openai-chatgpt)
 
 ## [CloudZack](https://cloudzack.com)
-I started CloudZack in 2022 with the goal of helping people use the power of the cloud to improve their lives and businesses.
+With the goal of empowering users to use cloud technology to its fullest potential, CloudZack was born in 2022. CloudZack has recently lauched the StitchJournal application - an innovative app that makes it easy for users to track their progress on stitching projects. With other innovative products on the horizon, we're excited to see what the future holds!
 
 <div align="center">
 
