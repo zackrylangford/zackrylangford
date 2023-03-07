@@ -29,13 +29,13 @@ StitchJournal is a web application built on Django and hosted on AWS Elastic Bea
 
 </div>
 
-## [August](https://github.com/zackrylangford/openai-chatgpt)
+## [August](https://github.com/zackrylangford/openai-august)
 
 August is a project driven by openai. We’re just getting started and are working hard to bring a fully functional application to the market. We have started building a chat application that you can check out by following the link below:
 
 <div align="center">
 
-[![August Logo](https://github-images-static.s3.amazonaws.com/images/august.svg)](https://github.com/zackrylangford/openai-chatgpt)
+[![August Logo](https://github-images-static.s3.amazonaws.com/images/august.svg)](https://github.com/zackrylangford/openai-august)
 
 </div>
 
