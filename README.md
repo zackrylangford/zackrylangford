@@ -9,7 +9,7 @@
 
 
 # Current Projects
-[CloudZack](https://cloudzack.com) and [StitchJournal](https://stitchjournal.com) are my two main projects currently. I also recently started playing around with OpenAI and am playing around with the capabilities with my project [August](https://github.com/zackrylangford/openai-chatgpt)
+[CloudZack](https://cloudzack.com) and [StitchJournal](https://stitchjournal.com) are my two main projects currently. I also recently started playing around with OpenAI and am playing around with the capabilities with my project [August](https://github.com/zackrylangford/openai-chatgpt). I also reflect on life, coding, and pursuing a career in tech at my blog [blog.zackrylangford](https://blog.zackrylangford.com)
 
 ## [CloudZack](https://cloudzack.com)
 With the goal of empowering users to use cloud technology to its fullest potential, CloudZack was born in 2022. CloudZack has recently lauched the StitchJournal application - an innovative app that makes it easy for users to track their progress on stitching projects. With other innovative products on the horizon, we're excited to see what the future holds!
@@ -31,7 +31,7 @@ StitchJournal is a web application built on Django and hosted on AWS Elastic Bea
 
 ## [August](https://github.com/zackrylangford/openai-august)
 
-August is a project driven by openai. We’re just getting started and are working hard to bring a fully functional application to the market. We have started building a chat application that you can check out by following the link below:
+August is a project driven by openai. August is currently able to chat, rewrite resumes based on job descriptions, and coach a user through crafting a complete blog post as well as adding an image to the post! Check it out by following the link below:
 
 <div align="center">
 
