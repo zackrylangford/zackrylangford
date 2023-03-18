@@ -12,7 +12,7 @@
 [CloudZack AI Tools](https://ai.cloudzack.com) and [StitchJournal](https://stitchjournal.com) are my two main projects currently. [August](https://github.com/zackrylangford/openai-august) is where I work on developing and playing around with AI language models. I also reflect on life, coding, and pursuing a career in tech at my blog [blog.zackrylangford](https://blog.zackrylangford.com)
 
 ## [CloudZack](https://cloudzack.com)
-With the goal of empowering users to use cloud technology to its fullest potential, CloudZack was born in 2022. CloudZack has recently lauched the StitchJournal application - an innovative app that makes it easy for users to track their progress on stitching projects. With other innovative products on the horizon, we're excited to see what the future holds!
+With the goal of empowering users to use cloud technology to its fullest potential, CloudZack was born in 2022. CloudZack recently lauched [CloudZack AI Tools](https://ai.cloudzack.com) - an innovative app that makes it easy for users to utilize the latest in AI Chat technology. CloudZack also recently launched [StitchJournal](https://stitchjournal.com), an app that helps crochet pattern designers track their progress on stitching projects. With other innovative products on the horizon, we're excited to see what the future holds!
 
 <div align="center">
 
