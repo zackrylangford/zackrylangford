@@ -9,8 +9,8 @@
 
 
 # Current Projects
-[CloudZack AI Tools](https://ai.cloudzack.com)
-[August](https://github.com/zackrylangford/openai-august) 
+- [CloudZack AI Tools](https://ai.cloudzack.com)
+- [August](https://github.com/zackrylangford/openai-august) 
 - And lots of others in the works!
  I also reflect on life, coding, and pursuing a career in tech at my blog [blog.zackrylangford](https://blog.zackrylangford.com)
 
