@@ -17,6 +17,7 @@
 ### Crafting Engaging iOS Experiences with AWS
 
 At CloudZack, we specialize in developing innovative iOS apps that entertain and engage users, seamlessly integrated with AWS. Our creations leverage the power of cloud technology to ensure scalability, robustness, and a smooth cross-device experience.
+</div>
 
 ### The Stack
 
@@ -39,7 +40,7 @@ At CloudZack, we specialize in developing innovative iOS apps that entertain and
 - AWS CLI
 - Git & GitHub
 
-</div>
+
 
 # Contact
 
