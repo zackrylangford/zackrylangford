@@ -22,23 +22,25 @@ At CloudZack, we specialize in developing innovative iOS apps that entertain and
 ### The Stack
 
 #### Front-End (iOS Development)
-- Swift
-- UIKit / SwiftUI
-- Xcode
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-%2300A8F9.svg?style=flat&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-5E5C5C?style=flat&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=xcode&logoColor=white)
 
 #### Back-End (AWS Integration)
-- Lambda
-- DynamoDB
-- S3
-- API Gateway
-- Cognito
-- SAM
-- CloudFormation
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FB542B?style=flat&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-3E721D?style=flat&logo=amazonaws&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-20232A?style=flat&logo=amazon&logoColor=61DAFB)
+![SAM](https://img.shields.io/badge/SAM-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 #### Scripting and Tooling
-- Python
-- AWS CLI
-- Git & GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
 
