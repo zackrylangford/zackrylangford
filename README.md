@@ -41,10 +41,10 @@ At CloudZack, we specialize in developing innovative iOS apps that entertain and
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-#### Development Environments
-[![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![AWS Cloud9](https://img.shields.io/badge/AWS_Cloud9-%23F7B93E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/cloud9/)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=xcode&logoColor=white)
+#### Environments
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![AWS Cloud9](https://img.shields.io/badge/AWS_Cloud9-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cloud9/)
 
 
 # Contact
