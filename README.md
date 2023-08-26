@@ -51,9 +51,9 @@ At CloudZack, we specialize in developing innovative iOS apps that entertain and
 
 How to reach me:
 
-* 📫 [Email](mailto:zack@cloudzack.com)
-* 🐥 [Twitter](https://twitter.com/zackrylangford)
-
+📫 [Email](mailto:zack@cloudzack.com) |
+[Threads](https://www.threads.net/@zackrydlangford) |
+[LinkedIn](https://www.linkedin.com/in/zackry-langford/) |
 
 
 
