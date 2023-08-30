@@ -8,16 +8,6 @@
 🔗 While my focus is on iOS, I'm passionate about contributing to and supporting the open-source community, whether it's through shared tools, educational content, or open standards.  
 🌱 Continuously learning and growing in areas like Python, AWS, Swift, and all things that drive growth and innovation.  
 
-## [CloudZack](https://cloudzack.com) - Cloud-Integrated iOS Development
-
-<div align="center">
-
-[![CloudZack Logo](https://github-images-static.s3.amazonaws.com/images/CloudZack-Logo.svg)](https://cloudzack.com)
-
-### Crafting Engaging iOS Experiences with AWS
-
-At CloudZack, we specialize in developing innovative iOS apps that entertain and engage users, seamlessly integrated with AWS. Our creations leverage the power of cloud technology to ensure scalability, robustness, and a smooth cross-device experience.
-</div>
 
 ### The Stack
 
