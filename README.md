@@ -36,6 +36,14 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![AWS Cloud9](https://img.shields.io/badge/AWS_Cloud9-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cloud9/)
 
+#### AWS Certifed
+<a href="https://www.credly.com/badges/c3dd34be-c860-4ff9-8642-4cc5fa44dd23/public_url">
+    <img src="https://github-images-static.s3.amazonaws.com/images/aws-certified-cloud-practitioner.png" width="200" height="200" style="display:inline-block;">
+</a>
+<a href="https://www.credly.com/badges/979d80f0-ec47-4ff0-bac9-f7f146455546/public_url">
+    <img src="https://github-images-static.s3.amazonaws.com/images/aws-certified-solutions-architect-associate.png" width="200" height="200" style="display:inline-block;">
+</a>
+
 
 # Contact
 
@@ -44,7 +52,6 @@ How to reach me:
 📫 [Email](mailto:zack@cloudzack.com) |
 [Threads](https://www.threads.net/@zackrydlangford) |
 [LinkedIn](https://www.linkedin.com/in/zackry-langford/) |
-
 
 
 
