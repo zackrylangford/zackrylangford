@@ -9,12 +9,14 @@
 🌱 Continuously learning and growing in areas like Python, AWS, Swift, and all things that drive growth and innovation.  
 
 
-### The Stack
+### What I like to work with:
 
-#### Front-End (iOS Development)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-%2300A8F9.svg?style=flat&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-5E5C5C?style=flat&logo=swift&logoColor=white)
+#### Front-End (Web)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 #### Back-End (AWS Integration)
 ![Lambda](https://img.shields.io/badge/AWS_Lambda-FB542B?style=flat&logo=amazonaws&logoColor=white)
@@ -24,17 +26,26 @@
 ![Cognito](https://img.shields.io/badge/Cognito-20232A?style=flat&logo=amazon&logoColor=61DAFB)
 ![SAM](https://img.shields.io/badge/SAM-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-#### Scripting and Tooling
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+Basically anything AWS :) 
+
+#### Scripting and Tooling 
 ![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+#### Testing and CI/CD
+![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
 #### Environments
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![AWS Cloud9](https://img.shields.io/badge/AWS_Cloud9-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cloud9/)
+[![Github Codespaces](https://img.shields.io/badge/Github_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)](
 
 #### AWS Certifed
 <a href="https://www.credly.com/badges/c3dd34be-c860-4ff9-8642-4cc5fa44dd23/public_url">
