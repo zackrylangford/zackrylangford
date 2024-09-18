@@ -3,10 +3,11 @@
 👋 Hi, I'm Zack!
 
 👨‍👩‍👦‍👦‍👦 Family man, married to Rebecca, with 3 wonderful kids.  
-💪 Stay-at-home dad for the last 4 years, and Brazillian Jiu-Jitsu enthusiast.  
-📱 Specialize in Cloud-Integrated iOS Development, creating innovative and scalable applications.  
-🔗 While my focus is on iOS, I'm passionate about contributing to and supporting the open-source community, whether it's through shared tools, educational content, or open standards.  
-🌱 Continuously learning and growing in areas like Python, AWS, Swift, and all things that drive growth and innovation.  
+💪 Stay-at-home dad for the last 5 years, and Brazillian Jiu-Jitsu enthusiast.  
+📱 Specialize in Cloud-Integrated Web Development, creating innovative and scalable applications.  
+🌱 Continuously learning and growing in areas like Python, AWS, and all things that drive growth and innovation.
+
+Currently working on lots of projects, but primarily focused on the web ecosystem for yarnandchai.com (includes, Next.js, AWS, Wordpress, and multiple apps deployed all over the place). 
 
 
 ### What I like to work with:
