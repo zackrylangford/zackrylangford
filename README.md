@@ -10,8 +10,8 @@
 Technology Assistant in the IT department at the [Marshall District Library](https://github.com/Marshall-District-Library). I work on web infrastructure projects using platforms like [WordPress](https://wordpress.org), [Omeka](https://omeka.org), and [Django](https://www.djangoproject.com), ensuring the library’s digital presence is robust and user-friendly. I also assist patrons with hardware and software troubleshooting, providing tech education and support to the community.  
 
 🎯 **Current Focus:**  
-- Developing and maintaining the web ecosystem for [yarnandchai.com](https://yarnandchai.com), a project that includes Next.js, AWS, [WordPress](https://wordpress.org), and a range of apps deployed across diverse platforms.  
 - Supporting the IT and web infrastructure for the Marshall District Library, contributing to tools and platforms such as [WordPress](https://wordpress.org), [Omeka](https://omeka.org), and [Django](https://www.djangoproject.com) to enhance community engagement and internal operations.
+- Developing and maintaining the web ecosystem for [yarnandchai.com](https://yarnandchai.com), a project that includes Next.js, AWS, [WordPress](https://wordpress.org), and a range of apps deployed across diverse platforms.  
 
 
 ### What I Like to Work With:
