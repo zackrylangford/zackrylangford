@@ -2,7 +2,6 @@
 
 👋 Hi, I'm Zack!  
 
-👨‍👩‍👦‍👦 Family man, married to Rebecca, with 3 wonderful kids.  
 📱 Specialize in Cloud-Integrated Web Development, creating innovative and scalable applications.  
 🌱 Continuously learning and growing in areas like Python, AWS, and all things that drive growth and innovation.  
 
